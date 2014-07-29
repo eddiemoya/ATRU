@@ -1,0 +1,9 @@
+[submodule "www/wordpress-default/wp-content/plugins/featured-articles-lite"]
+	path = www/wordpress-default/wp-content/plugins/featured-articles-lite
+	url = git@github.com:eddiemoya/FA_Lite_ATRU.git
+[submodule "www/wordpress-default/wp-content/themes/Taproot-ATRU"]
+	path = www/wordpress-default/wp-content/themes/Taproot-ATRU
+	url = git@github.com:eddiemoya/Taproot-ATRU.git
+[submodule "www/wordpress-default/wp-content/plugins/atru-upcomingevents"]
+	path = www/wordpress-default/wp-content/plugins/atru-upcomingevents
+	url = git@github.com:eddiemoya/atru_upcomingevents.git
